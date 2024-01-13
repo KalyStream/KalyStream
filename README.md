@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kalybay
-- 👀 I've been working as IOS App Developer for almost 1.5 years
-- 🌱 I’m currently learning UIKit and SwiftUI
+- 👀 I've been working as iOS App Developer for almost 1.5 years
+- 🌱 I’m currently learning SwiftUI
 - 📫 How to reach me: kalybay.zhalgasbay@gmail.com
 
 <!---
