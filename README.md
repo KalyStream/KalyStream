@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kalybay
-- 👀 I’m interested in IOS App Development
+- 👀 I've been working as IOS App Developer for almost 1.5 years
 - 🌱 I’m currently learning UIKit and SwiftUI
 - 📫 How to reach me: kalybay.zhalgasbay@gmail.com
 
