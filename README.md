@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Kalybay
-- 👀 I've been working as iOS App Developer for almost 1.5 years
-- 🌱 I’m currently learning SwiftUI
+- 👀 I've been working as iOS App Developer for almost 3 years
+- 🛠️ Developing my own iOS App NextOffer(Beta)
+- 🌱 Tech Stack: Swift, UIKit, SwiftUI, Python, FastAPI, Pydantic, PostgreSQL, HTML, CSS, Jinja2, Firebase
 - 📫 How to reach me: kalybay.zhalgasbay@gmail.com
 
 <!---
